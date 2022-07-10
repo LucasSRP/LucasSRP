@@ -21,7 +21,20 @@
 [![ANGULAR](https://img.shields.io/badge/-ANGULAR%202.0-000?style=for-the-badge&logo=ANGULAR&logoColor=f00)]()
 [![JAVA](https://img.shields.io/badge/-JAVA-000?style=for-the-badge&logo=ORACLE&logoColor=f00)]()
 [![NETBEANS](https://img.shields.io/badge/-NET%20BEANS-000?style=for-the-badge&logo=Apache%20NetBeans%20IDE&logoColor=f00)]()
-[![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=f00)]()
+[![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=postgresql&logoColor=f00)]()
+[![WINDOWS](https://img.shields.io/badge/-WINDOWS-000?style=for-the-badge&logo=Microsoft&logoColor=f00)]()
+[![OFFICE](https://img.shields.io/badge/-MICROSOFT%20OFFICE-000?style=for-the-badge&logo=Microsoft%20Office&logoColor=f00)]()
+[![GAME](https://img.shields.io/badge/-Game%20design-000?style=for-the-badge&logo=Riot%20Games&logoColor=f00)]()
+[![PHOTOSHOP](https://img.shields.io/badge/-Photoshop-000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=f00)]()
+
+---
+
+[![Typing Linguagens](https://readme-typing-svg.herokuapp.com?color=BB0000&lines=Experiência)]()
+
+[![TI](https://img.shields.io/badge/-Suporte%20Técnico-000?style=for-the-badge&logo=Canonical&logoColor=f00)]()<br>
+[![SCIENTIST](https://img.shields.io/badge/-Cientista%20da%20Computação-000?style=for-the-badge&logo=Canonical&logoColor=f00)]()<br>
+[![FRONTEND](https://img.shields.io/badge/-FRONT--END%20PROTOTYPING-000?style=for-the-badge&logo=Canonical&logoColor=f00)]()<br>
+[![GAME](https://img.shields.io/badge/-Game%20design-000?style=for-the-badge&logo=Canonical&logoColor=f00)]()<br>
 
 ---
 
